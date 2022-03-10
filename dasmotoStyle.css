@@ -1,0 +1,40 @@
+h1, h2, h3 {
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+header {
+	background-image: url("pattern.jpg");
+}
+
+h1 {
+	font-size: 100px;
+	text-align: center;
+	color: khaki;
+}
+
+h2 {
+	font-size: 32px;
+	color: white;
+}
+
+.Brushes {
+	background-color: mediumspringgreen
+}
+
+.Frames {
+	background-color: lightcoral
+}
+
+.Paint {
+	background-color: skyblue
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+	font-size: 16px;
+}
+.price {
+	font-weight: bold;
+	color: blue
+}
